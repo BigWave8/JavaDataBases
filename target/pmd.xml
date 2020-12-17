@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.21.0" timestamp="2020-12-17T18:46:07.014">
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\AdressControllerImpl.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="AdressControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'com.oryshchak.model.Parcel'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="AdressControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.IOException'
+</violation>
+</file>
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\CityControllerImpl.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="CityControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'com.oryshchak.model.Adress'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="CityControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.IOException'
+</violation>
+</file>
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\CourierControllerImpl.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="32" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="CourierControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'com.oryshchak.model.City'
+</violation>
+</file>
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\DepartmentControllerImpl.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="35" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="DepartmentControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'com.oryshchak.model.Courier'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="DepartmentControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.IOException'
+</violation>
+</file>
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\OperatorControllerImpl.java">
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="OperatorControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.IOException'
+</violation>
+</file>
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\ParcelControllerImpl.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="34" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="ParcelControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'com.oryshchak.model.Region'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="ParcelControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.io.IOException'
+</violation>
+</file>
+<file name="D:\projects\DataBase\Lab5\src\main\java\com\oryshchak\controller\implementations\UserControllerImpl.java">
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Best Practices" package="com.oryshchak.controller.implementations" class="UserControllerImpl" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'com.oryshchak.model.ParcelOnWay'
+</violation>
+</file>
+</pmd>
